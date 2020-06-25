@@ -1,4 +1,4 @@
 ## vegfest.ma
-### Contributors:
+#### Contributors:
 - Abdelaziz Saroui
 - Wijdane Hilal
