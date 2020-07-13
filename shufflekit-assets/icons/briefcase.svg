@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <path fill="currentColor" fill-rule="evenodd" fill-opacity="0.3" d="M7,18H41V36H7V18Zm11-6h3V11h6v1h3V8H18v4Z"/>
+  <path fill="currentColor" fill-rule="evenodd" d="M6,17V12H42v5C41.983,26.1,6,27.672,6,17Z"/>
+  <circle fill="currentColor" fill-rule="evenodd" fill-opacity="0.9" cx="24" cy="24" r="5"/>
+  <circle fill="#fff" fill-rule="evenodd" fill-opacity="0.5" cx="24" cy="24" r="2"/>
+</svg>
